@@ -3,7 +3,7 @@
 - add to the config.env
 ```
 PORT = 3000
-MONGO_URI = <Put your mongo database url here>
+MONGO_URI = <Put your mongo database connection url here>
 GOOGLE_CLIENT_ID = <Put your Google Client Id here>
 GOOGLE_CLIENT_SECRET = <Put your Client Secret here>
 ```
